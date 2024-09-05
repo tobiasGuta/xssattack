@@ -23,7 +23,7 @@ Automatic Report Opening: The generated report is automatically opened in Firefo
 
 The tool is executed from the command line with several arguments:
 
-    python xss_tester.py -u <URL> -p <PARAM> -f <PAYLOAD_FILE> [-n <NUMBER>] [-o <OUTPUT_FILE>]
+    python xss.py -u <URL> -p <PARAM> -f <PAYLOAD_FILE> [-n <NUMBER>] [-o <OUTPUT_FILE>]
 Arguments:
 
     -u, --url (Required): The URL to test, ending with a parameter placeholder (e.g., http://example.com/page?param=).
