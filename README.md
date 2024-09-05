@@ -36,7 +36,7 @@ Example
 
 To test a URL with a parameter and a payload file, and generate a report:
 
-    python xss.py -u http://example.com/search.php?q=space -p q -f payloads.txt -n 5 -o xss_report.html
+    python xss.py -u "http://example.com/search.php?q=space" -p "q" -f payloads.txt -n 5 -o xss_report.html
 
 Dependencies
 
