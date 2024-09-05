@@ -2,7 +2,12 @@
 
 This Python tool is designed to test web applications for Cross-Site Scripting (XSS) vulnerabilities by injecting payloads into specified URL parameters and detecting JavaScript alerts. It leverages the Selenium library for browser automation, uses webdriver-manager for ChromeDriver management, and supports concurrent execution for efficiency. Results are compiled into an HTML report and automatically opened in Firefox.
 
-![xss](https://github.com/user-attachments/assets/518568e3-875d-4215-9999-46653cf54974)
+This is how it looks in the report[.]html file.
+![xss](https://github.com/user-attachments/assets/495f36f8-01fe-434e-a01f-3a822c0c2dd0)
+
+This is how it look in the Terminal.
+
+![terminal](https://github.com/user-attachments/assets/c696b69d-6a34-45cd-a5ba-b6daa3d9f2d2)
 
 
 # Features
