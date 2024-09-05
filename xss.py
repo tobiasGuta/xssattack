@@ -56,9 +56,14 @@ def test_payload(payload, url, param):
     }
 
     try:
+        # Prepare the URL by replacing the placeholder with the payload
+        if param not in url:
+            print(f"{RED}[ERROR] Parameter '{param}' not found in URL.{RESET}")
+            return
+
         # Inject payload into the URL parameter
         encoded_payload = escape_payload(payload)
-        test_url = f"{url}{param}={encoded_payload}"
+        test_url = url.replace(param, f"{param}={encoded_payload}")
         driver.get(test_url)
 
         # Check for alert
