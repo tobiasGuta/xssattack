@@ -49,6 +49,8 @@ Dependencies
     html
     webbrowser
     os
+    chromedriver
+    google-chrome
 
 Ensure you have these dependencies installed and configured for the tool to function correctly. The webdriver-manager library automatically handles ChromeDriver downloads and updates, so no manual setup is required.
 Note
