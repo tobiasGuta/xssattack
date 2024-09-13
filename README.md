@@ -9,6 +9,7 @@ This is how it look in the Terminal.
 
 ![terminal](https://github.com/user-attachments/assets/c696b69d-6a34-45cd-a5ba-b6daa3d9f2d2)
 
+Note: If you have a custom payload, you can use it here.
 
 # Features
 
