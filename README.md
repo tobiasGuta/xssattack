@@ -18,7 +18,7 @@ Headless Browser Execution: Uses a headless Chrome browser for testing, which al
 Concurrent Execution: Tests are performed in parallel using Python’s concurrent.futures to speed up the process.
 Custom Payloads: Supports custom payloads loaded from a file.
 HTML Report Generation: Compiles the results into an HTML report with a styled table that lists payloads that triggered alerts.
-Automatic Report Opening: The generated report is automatically opened in Firefox for quick review.
+Automatic Report Opening: The generated report is automatically opened in Firefox(linux) or google chrome(windows)for quick review.
 
 # Reqiurements
 
