@@ -22,10 +22,7 @@ Automatic Report Opening: The generated report is automatically opened in Firefo
 
 # Reqiurements
 
-    Selenium
-    WebDriver-Manager
-    argparse
-    chromedriver
+    pip3 install -r reqiurements.txt
 
 # Usage
 
