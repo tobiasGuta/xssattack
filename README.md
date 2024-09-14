@@ -61,3 +61,7 @@ Ensure you have these dependencies installed and configured for the tool to func
 Note
 
 The script assumes that Firefox(linux) or google-chrome(windows)is installed at a default location on the system. Adjust the path to the Firefox executable if necessary for different environments.
+
+Youtube: 
+
+How to install : https://www.youtube.com/watch?v=B-04Ilfvltw
