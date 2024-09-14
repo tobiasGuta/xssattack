@@ -20,6 +20,13 @@ Custom Payloads: Supports custom payloads loaded from a file.
 HTML Report Generation: Compiles the results into an HTML report with a styled table that lists payloads that triggered alerts.
 Automatic Report Opening: The generated report is automatically opened in Firefox for quick review.
 
+# Reqiurements
+
+    Selenium
+    WebDriver-Manager
+    argparse
+    chromedriver
+
 # Usage
 
 The tool is executed from the command line with several arguments:
