@@ -1,6 +1,6 @@
 # xssattack
 
-This Python tool is designed to test web applications for Cross-Site Scripting (XSS) vulnerabilities by injecting payloads into specified URL parameters and detecting JavaScript alerts. It leverages the Selenium library for browser automation, uses webdriver-manager for ChromeDriver management, and supports concurrent execution for efficiency. Results are compiled into an HTML report and automatically opened in Firefox.
+This Python tool is designed to test web applications for Cross-Site Scripting (XSS) vulnerabilities by injecting payloads into specified URL parameters and detecting JavaScript alerts. It leverages the Selenium library for browser automation, uses webdriver-manager for ChromeDriver management, and supports concurrent execution for efficiency. Results are compiled into an HTML report and automatically opened in (linux)Firefox or (windows)google chrome
 
 This is how it looks in the report[.]html file.
 ![xss](https://github.com/user-attachments/assets/495f36f8-01fe-434e-a01f-3a822c0c2dd0)
