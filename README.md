@@ -22,7 +22,7 @@ Automatic Report Opening: The generated report is automatically opened in Firefo
 
 # Reqiurements
 
-    pip3 install -r reqiurements.txt
+    pip3 install -r requirements.txt
 
 # Usage
 
