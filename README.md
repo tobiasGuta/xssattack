@@ -39,9 +39,14 @@ Arguments:
 
 Example
 
-To test a URL with a parameter and a payload file, and generate a report:
+ Parameter-Based XSS Testing:
+ 
+    python3 xss-param.py -u "http://example.com/search.php?q=space" -p "q" -f payloads.txt -n 5 -o xss_report.html
 
-    python3 xss.py -u "http://example.com/search.php?q=space" -p "q" -f payloads.txt -n 5 -o xss_report.html
+ Path-Based XSS Testing:
+ 
+    python xss-param-and-path.py -u "http://example.com/search/" -f "payloads.txt" -n 10 -o "report.html" --path
+
 
 Dependencies
 
