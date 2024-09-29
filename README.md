@@ -65,6 +65,6 @@ Dependencies
 Ensure you have these dependencies installed and configured for the tool to function correctly. The webdriver-manager library automatically handles ChromeDriver downloads and updates, so no manual setup is required.
 Note
 
-The script assumes that Firefox(linux) or google-chrome(windows)is installed at a default location on the system. Adjust the path to the Firefox executable if necessary for different environments.
+The script assumes that Firefox(linux) is installed at a default location on the system. Adjust the path to the Firefox executable if necessary for different environments.
 
 I wanted to let you know that I'll be regularly updating the wordlist with new payloads I've discovered from various platforms, Please check back every Sunday for the latest updates!
