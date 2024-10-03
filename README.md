@@ -28,17 +28,6 @@ Automatic Report Opening: The generated report is automatically opened in Firefo
 
 The tool is executed from the command line with several arguments:
 
-    python xss.py -u <URL> -p <PARAM> -f <PAYLOAD_FILE> [-n <NUMBER>] [-o <OUTPUT_FILE>]
-Arguments:
-
-    -u, --url (Required): The URL to test, ending with a parameter placeholder (e.g., http://example.com/page?param=).
-    -p, --param (Required): The name of the parameter to inject payloads into (e.g., search).
-    -f, --file (Required): Path to a file containing custom payloads (one per line).
-    -n, --number (Optional): Number of random payloads to test. Defaults to 10.
-    -o, --output (Optional): The name of the output HTML report file. Defaults to report.html.
-
-Example
-
  Parameter-Based XSS Testing:
  
     python3 xss-param.py -u "http://example.com/search.php?q=space" -p "q" -f payloads.txt -n 5 -o xss_report.html
@@ -46,6 +35,16 @@ Example
  Path-Based XSS Testing:
  
     python xss-param-and-path.py -u "http://example.com/search/" -f "payloads.txt" -n 10 -o "report.html" --path
+Arguments:
+
+    -u, --url (Required): The URL to test, ending with a parameter placeholder (e.g., http://example.com/page?param=).
+    -p, --param (Required): The name of the parameter to inject payloads into (e.g., search).
+    -f, --file (Required): Path to a file containing custom payloads (one per line).
+    -n, --number (Optional): Number of random payloads to test. Defaults to 10.
+    -o, --output (Optional): The name of the output HTML report file. Defaults to report.html.
+    --path                Indicate if testing path-based XSS
+
+
 
 
 Dependencies
