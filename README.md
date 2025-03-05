@@ -2,12 +2,9 @@
 
 This Python tool is designed to test web applications for Cross-Site Scripting (XSS) vulnerabilities by injecting payloads into specified URL parameters and directly into the URL path. It detects JavaScript alerts to confirm the presence of vulnerabilities. Leveraging the Selenium library for browser automation, it utilizes webdriver-manager for seamless ChromeDriver management and supports concurrent execution for improved efficiency. Results are compiled into an HTML report, which is automatically opened in Firefox on Linux.
 
-This is how it looks in the report[.]html file.
-![xss](https://github.com/user-attachments/assets/495f36f8-01fe-434e-a01f-3a822c0c2dd0)
-
 This is how it look in the Terminal.
 
-![terminal](https://github.com/user-attachments/assets/c696b69d-6a34-45cd-a5ba-b6daa3d9f2d2)
+![image](https://github.com/user-attachments/assets/16c5d794-d81c-4203-8bdf-64641d5d2a79)
 
 Note: If you have a custom payload, you can use it here.
 
@@ -30,36 +27,21 @@ The tool is executed from the command line with several arguments:
 
  Parameter-Based XSS Testing:
  
-    python3 xss-param.py -u "http://example.com/search.php?q=space" -p "q" -f payloads.txt -n 5 -o xss_report.html
+    python3 xss-param.py "http://domain.com/index.php?task=" -p "task" -f large-xss.txt -n 10 -o xsstrigers.txt
 
- Path-Based XSS Testing:
- 
-    python xss-param-and-path.py -u "http://example.com/search/" -f "payloads.txt" -n 10 -o "report.html" --path
 Arguments:
 
-    -u, --url (Required): The URL to test, ending with a parameter placeholder (e.g., http://example.com/page?param=).
     -p, --param (Required): The name of the parameter to inject payloads into (e.g., search).
     -f, --file (Required): Path to a file containing custom payloads (one per line).
     -n, --number (Optional): Number of random payloads to test. Defaults to 10.
     -o, --output (Optional): The name of the output HTML report file. Defaults to report.html.
-    --path                Indicate if testing path-based XSS
-
-
-
 
 Dependencies
 
-    Selenium
-    WebDriver Manager
-    argparse
-    urllib.parse
-    concurrent.futures
-    random
-    html
-    webbrowser
-    os
-    chromedriver
-    google-chrome
+    selenium==4.9.1
+    webdriver-manager==4.0.2
+    colorama
+    rich
 
 Ensure you have these dependencies installed and configured for the tool to function correctly. The webdriver-manager library automatically handles ChromeDriver downloads and updates, so no manual setup is required.
 Note
