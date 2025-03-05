@@ -77,6 +77,11 @@ Arguments:
       -o OUTPUT, --output OUTPUT
                             File to save the output of triggered payloads.
 
+NOTE: You can also use this tool with notify from project discovery:
+
+```bash
+python3 xss-param.py "http://domain.com/index.php?task=" -p "task" -f large-xss.txt -n 10 -o xsstrigers.txt; notify -data xsstrigers.txt -bulk
+```
 
 # Dependencies
 
