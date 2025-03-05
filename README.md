@@ -77,8 +77,6 @@ Arguments:
       -o OUTPUT, --output OUTPUT
                             File to save the output of triggered payloads.
 
-NOTE: You can also use this tool with notify from project discovery:
-
 💬 **Integration with Notify** – I’ve added a new feature using the awesome [Notify](https://docs.projectdiscovery.io/tools/notify/overview) tool from Project Discovery! You can now easily send your output to your favorite platforms:
 
 - Slack
