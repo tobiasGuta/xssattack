@@ -79,6 +79,16 @@ Arguments:
 
 NOTE: You can also use this tool with notify from project discovery:
 
+💬 **Integration with Notify** – I’ve added a new feature using the awesome [Notify](https://docs.projectdiscovery.io/tools/notify/overview) tool from Project Discovery! You can now easily send your output to your favorite platforms:
+
+- Slack
+- Discord
+- Telegram
+- Pushover
+- Email
+- Microsoft Teams
+- Google Chat
+
 ```bash
 python3 xss-param.py "http://domain.com/index.php?task=" -p "task" -f large-xss.txt -n 10 -o xsstrigers.txt; notify -data xsstrigers.txt -bulk
 ```
