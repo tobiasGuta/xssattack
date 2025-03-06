@@ -10,6 +10,7 @@ import signal
 import sys
 from rich.console import Console
 from rich.table import Table
+from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 
 art = r'''
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⣤⡤⣤⣤⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -59,31 +60,50 @@ def setup_browser():
     driver = webdriver.Chrome(service=service, options=options)
     return driver
 
+def modify_url(url, param, payload):
+    """Modifies the specified parameter in the URL while preserving others."""
+    parsed_url = urlparse(url)
+    query_params = parse_qs(parsed_url.query)
+
+    # Update or add the specified parameter with the payload
+    query_params[param] = [payload]
+
+    # Encode the new query string properly
+    new_query = urlencode(query_params, doseq=True)
+
+    # Reconstruct the full URL
+    modified_url = urlunparse((
+        parsed_url.scheme,
+        parsed_url.netloc,
+        parsed_url.path,
+        parsed_url.params,
+        new_query,
+        parsed_url.fragment
+    ))
+
+    return modified_url
+
 def detect_alert(driver, url, param, payload, output_file=None):
-    # Insert the payload into the specified parameter in the URL
-    test_url = f"{url}?{param}={payload}"
-    driver.get(test_url)
+    """Injects the payload into the correct URL parameter and detects JavaScript alerts."""
+    test_url = modify_url(url, param, payload)
     
     try:
-        # Wait for an alert to be present, up to 5 seconds
+        driver.get(test_url)
         WebDriverWait(driver, 5).until(EC.alert_is_present())
-        
-        # If an alert is found, handle it
+
         alert = Alert(driver)
-        console.print(f"[bold green]ALERT:[/] Alert detected with payload: [yellow]{payload}[/] for parameter: {param}")
-        alert.accept()  # You can also dismiss or perform other actions if needed
-        console.print(f"[bold green]ALERT:[/] Alert accepted!")
-        
-        # Add the triggered payload URL to the list
+        console.print(f"[bold green]ALERT:[/] Triggered with payload: [yellow]{payload}[/] for parameter: {param}")
+        alert.accept()
+
         triggered_payloads.append(test_url)
-        
-        # Save the triggered payload URL to the output file if specified
+
         if output_file:
             with open(output_file, 'a') as f:
                 f.write(test_url + '\n')
+
         return "Triggered"
-    
-    except Exception as e:
+
+    except Exception:
         console.print(f"[bold yellow]INFO:[/] No alert detected with payload: [yellow]{payload}[/] for parameter: {param}.")
         return "Not Triggered"
 
